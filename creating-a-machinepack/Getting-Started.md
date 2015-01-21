@@ -99,7 +99,7 @@ ________________________________________________________________¸
 
 
 ###Adding a `machine` to a `machinepack` 
-Adding a `machine` to an exisitng `machinepack` is simple.  From the root of the `machinepack` **type**:
+Adding a `machine` to an existing `machinepack` is simple.  From the root of the `machinepack` **type**:
 
 `machinepack add`
 
